@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <!-- Link external stylesheet -->
     <!-- ../ moves up one folder from /public to /assets -->
-    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="assets/css/login.css">
 </head>
 
 <body>
@@ -69,7 +69,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <!-- Clinic logo -->
     <div class="logo-container">
-    <img src="images/Final Family Desert 1.png" alt="Riverside Family Clinic Logo" class="logo">
+    <img src="assets/images/Final Family Desert 1.png" alt="Riverside Family Clinic Logo" class="logo">
     </div>
 
 
